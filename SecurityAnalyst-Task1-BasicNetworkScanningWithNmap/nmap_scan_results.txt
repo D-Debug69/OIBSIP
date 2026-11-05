@@ -1,0 +1,10 @@
+Open ports detected after scan:
+-Port 53: service running is domain,
+-Port 80: service running is http,
+-Port 443: service running is https.
+
+The service domain is used for domain name resolution
+The services http and https provide web access to the administration interface of the routeur
+
+All these services are normal for a home router. Maybe the http service can pose a security risk because it is not encrypted, while the https is more secure.
+Also if the router uses weak passwords, outdated firmwares or misconfigured services, risks mainly arise.
